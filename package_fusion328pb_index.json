@@ -3,9 +3,9 @@
     {
       "name": "fusion328pb",
       "maintainer": "iMOStek Circuits",
-      "websiteURL": "https://github.com/Imostek/Fusion-ATMEGA328PB",
+      "websiteURL": "https://github.com/Imostek/Fusion_Boards/",
       "email": "",
-      "help": {"online": "https://github.com/Imostek/Fusion-ATMEGA328PB"},
+      "help": {"online": "https://github.com/Imostek/Fusion_Boards/"},
 
       "platforms": [
         {
@@ -13,11 +13,11 @@
           "architecture": "avr",
           "version": "1.0.0",
           "category": "contributed",
-          "help": {"online": "https://github.com/Imostek/Fusion-ATMEGA328PB"},
-          "url": "https://github.com/Imostek/Fusion-ATMEGA328PB/raw/main/Fusion_ATMEGA328PB_Settings.zip",
+          "help": {"online": "https://github.com/Imostek/Fusion_Boards/"},
+          "url": "https://github.com/Imostek/Fusion_Boards/raw/main/Fusion_ATMEGA328PB_Settings.zip",
           "archiveFileName": "Fusion_ATMEGA328PB_Settings.zip",
-          "checksum": "SHA-256:C5C0040B29AD136F72AFC5C1B4CD267CFA0501442E7E3EFA4024281A75DADBA9",
-          "size": "89560",
+          "checksum": "SHA-256:8D2DFC0252DC4EF0F300DB652BB5591D644D9CFF3CC3C50BE9CEC1842E5B0628",
+          "size": "81318",
           "boards": [
             {"name": "ATmega328PB"}
           ]
