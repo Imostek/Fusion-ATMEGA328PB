@@ -11,7 +11,7 @@
         {
           "name": "FUSION_328PB",
           "architecture": "avr",
-          "version": "1.0.0",
+          "version": "1.0.1",
           "category": "contributed",
           "help": {"online": "https://github.com/Imostek/Fusion_Boards/"},
           "url": "https://github.com/Imostek/Fusion_Boards/raw/main/Fusion_ATMEGA328PB_Settings.zip",
