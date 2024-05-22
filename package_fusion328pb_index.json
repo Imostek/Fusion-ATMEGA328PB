@@ -16,8 +16,8 @@
           "help": {"online": "https://github.com/Imostek/Fusion_Boards/"},
           "url": "https://github.com/Imostek/Fusion_Boards/raw/main/Fusion_ATMEGA328PB_Settings.zip",
           "archiveFileName": "Fusion_ATMEGA328PB_Settings.zip",
-          "checksum": "SHA-256:EB8D34C7C85D06834DF962D21F083CBBE74DAC2AFA91843EFDA7B6FEBC168E7A",
-          "size": "72399",
+          "checksum": "SHA-256:B626A0EA607EBDF424D2DA2B2F9C3338D4A854DA15307D45A9345778B3515E12",
+          "size": "73840",
           "boards": [
             {"name": "ATmega328PB"}
           ]
