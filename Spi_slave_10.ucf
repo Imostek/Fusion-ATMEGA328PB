@@ -1,0 +1,58 @@
+CONFIG VCCAUX=3.3;
+
+NET "sys_clk" LOC = "P90";
+#NET "rst_bar" LOC = "P39";
+
+#led connection
+#NET "LEDs[0]" LOC = "P65";
+#NET "LEDs[1]" LOC = "P64";
+#NET "LEDs[2]" LOC = "P62";
+#NET "LEDs[3]" LOC = "P61";
+
+##ADC connection
+#NET "A_CS" LOC = "P72";
+#NET "A_DT" LOC = "P71";
+#NET "A_CLK" LOC = "P70";
+
+
+#SPI connection
+NET "sclk"  LOC = "P9"; //P4
+NET "cs"    LOC = "P6"; //p3
+NET "mosi"  LOC = "P10"; //p5
+NET "miso"  LOC = "P12";
+
+#NET "sclk"  LOC = "P4"; //P4
+#NET "cs"    LOC = "P3"; //p3
+#NET "mosi"  LOC = "P5"; //p5
+#NET "miso"  LOC = "P32";
+
+# for fusion board 2
+NET "rst_bar" LOC = "P97";//P39";
+
+#led connection
+NET "LEDs[0]" LOC = "P72";//P61";
+NET "LEDs[1]" LOC = "P71";//P64";
+NET "LEDs[2]" LOC = "P70";//P62";
+NET "LEDs[3]" LOC = "P65";//P61";
+
+//ADC Connections//
+NET "A_CS" LOC = "P59";
+NET "A_DT" LOC = "P60";
+NET "A_CLK" LOC = "P61";
+
+//UART Connections//
+NET "UART_TX" LOC = "P49";
+#NET "UART_RX" LOC = "P50";
+
+//DAC Connections//
+NET "D_DT" LOC = "P64";
+NET "D_CLK" LOC = "P62";
+
+#NET "D_DT" LOC = "P59";
+#NET "D_CLK" LOC = "P60";
+
+//PWM connection//
+NET "PWM_1" LOC = "P27";
+NET "PWM_2" LOC = "P28";
+NET "PWM_3" LOC = "P29";
+NET "PWM_4" LOC = "P30";
